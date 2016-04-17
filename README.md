@@ -1,3 +1,7 @@
+# Thanks to amix, my some personal scripts and mapping are added
+
+https://github.com/amix/vimrc
+
 # The Ultimate vimrc
 
 Over the last 8 years I have used and tweaked Vim. This is my Ultimate vimrc.
