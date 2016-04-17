@@ -1,4 +1,4 @@
-# Thanks to amix, my some personal scripts and mapping are added
+# Thanks to amix, only some personal scripts and mappings are added
 
 https://github.com/amix/vimrc
 
